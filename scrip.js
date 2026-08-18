@@ -193,12 +193,13 @@
 // console.log(nameWriting("muhammadali")); 
 
 
-// 2 
-function name(params) {
-    
-}
+// // 2 
+// const a = "  hello world  ";
+// console.log(a.trim());
 
 
+// 3
+ss
 
 
 

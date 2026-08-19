@@ -233,7 +233,7 @@
 
 
 // 7 misol
-let
+let text = ""
 
 
 

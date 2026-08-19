@@ -193,12 +193,63 @@
 // console.log(nameWriting("muhammadali")); 
 
 
-// // 2 
+// // 2 misol
 // const a = "  hello world  ";
 // console.log(a.trim());
 
 
-// 3
+// 3 misol 
+// let text = "JavaScript juda zo'r til";
+// let index = text.indexOf("juda");
+
+// console.log(index);
+
+
+
+
+// 4 misol 
+
+// let text = "apple, banana, grape, mango";
+// let split = text.split(1)
+
+// console.log(split);
+
+
+
+// 5 misol 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ // 1
+// let str = "Hello "
+// for (let i = str.length -1; i >= 0; i--) {  
+// }
+
+
+
+// 2
+// let str = "banana"
+// let result = ""
+
+// for (let i = 0; i < str.length; i++) {
+//     if (str[i] === "a") {
+//         continue
+//     }
+//     result += str[i]
+// }
+// console.log(result);
 
 
 

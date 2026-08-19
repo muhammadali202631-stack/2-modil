@@ -262,10 +262,12 @@
 
 
 // 10 misol 
-let str = "aabbccddee";
-let uniqueStr = [...new Set(str)].join("");
+// let str = "aabbccddee";
+// let uniqueStr = [...new Set(str)].join("");
 
-console.log(uniqueStr);
+// console.log(uniqueStr);
+
+// 11 misol
 
 
 

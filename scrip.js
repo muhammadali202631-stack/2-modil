@@ -268,7 +268,12 @@
 // console.log(uniqueStr);
 
 // 11 misol
+let email = "user@mail.com";
+let isValid = email.includes("@") && 
+              email.includes(".") && 
+              email.indexOf("@") >= 1;
 
+console.log(isValid);
 
 
 

@@ -233,7 +233,14 @@
 
 
 // 7 misol
-let text = ""
+// let text = "racecar";
+// let isPalindrome = text === text.split("").reverse().join("");
+
+// console.log(isPalindrome);
+
+
+// 8 misol 
+let
 
 
 

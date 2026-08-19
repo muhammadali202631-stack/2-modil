@@ -217,7 +217,23 @@
 
 
 // 5 misol 
+// let text = "devloper"
+// let middle = Math.floor(text.length / 2);
+// let result = text.slice(middle - 1, middle + 2);
 
+// console.log(result);
+
+
+
+// 6 misol
+// let text = "Hello world"
+// let replaceAll = text.replaceAll("l", "*")
+
+// console.log(replaceAll);
+
+
+// 7 misol
+let
 
 
 

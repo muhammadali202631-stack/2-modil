@@ -240,8 +240,10 @@
 
 
 // 8 misol 
-let
+let data = "firstName:Ali, lastName:Valiyev, age:20";
+let name = data.split(",")[0].split(":")[1];
 
+console.log(name);
 
 
 

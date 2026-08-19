@@ -240,10 +240,33 @@
 
 
 // 8 misol 
-let data = "firstName:Ali, lastName:Valiyev, age:20";
-let name = data.split(",")[0].split(":")[1];
+// let data = "firstName:Ali, lastName:Valiyev, age:20";
+// let name = data.split(",")[0].split(":")[1];
 
-console.log(name);
+// console.log(name);
+
+
+
+// 9 misol
+// let text = "salom dunyo ";
+// let boshikatta = text.toLocaleUpperCase;
+
+// console.log(boshikatta);
+
+// let str = "salom dunyo";
+// let titleCase = str.split(" ").map(word => word[0].toUpperCase() + word.slice(1)) .join(" ");
+
+// console.log(titleCase);
+
+
+
+
+// 10 misol 
+let str = "aabbccddee";
+let uniqueStr = [...new Set(str)].join("");
+
+console.log(uniqueStr);
+
 
 
 

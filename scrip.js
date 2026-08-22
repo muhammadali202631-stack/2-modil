@@ -267,23 +267,71 @@
 
 // console.log(uniqueStr);
 
+
+
+
 // 11 misol
-let email = "user@mail.com";
-let isValid = email.includes("@") && 
-              email.includes(".") && 
-              email.indexOf("@") >= 1;
+// let email = "user@mail.com";
+// let isValid = email.includes("@") && 
+//               email.includes(".") && 
+//               email.indexOf("@") >= 1;
 
-console.log(isValid);
-
-
+// console.log(isValid);
 
 
 
+// 12 misol 
+// let sana = "2024 12 25"
+// let split = sana.split(((25))((12) (December))((2025)))
+
+// console.log(split);
+
+
+// let date = "2024-12-25";
+// let [year, month, day] = date.split("-");
+// let months = { "12": "December" };
+
+// let formatted = `${day} ${months[month]} ${year}`;
+// console.log(formatted);
 
 
 
 
 
+// 13 misol 
+// let text = "men boraman men kelaman men";
+// let words = text.split(" ");
+// let count = {};
+// let maxWord = "";
+// let maxCount = 0;
+
+// words.forEach(word => {
+//   count[word] = (count[word] || 0) + 1;
+//   if (count[word] > maxCount) {
+//     maxCount = count[word];
+//     maxWord = word;
+//   }
+// });
+
+// console.log(maxWord);
+
+
+
+
+// 14 misol
+// let card = "1234567890123456";
+// let masked = card.slice(-4).padStart(card.length, "*");
+
+// console.log(masked); 
+
+
+
+
+// 15 misol
+// let camel = "myVariableName";
+// let snake = camel.split("").map(char => char === char.toUpperCase() ? `_${char.toLowerCase()}` : char).join("");
+
+// console.log(snake); 
 
 
 
@@ -310,4 +358,32 @@ console.log(isValid);
 
 
 
+
+// 3
+// let str = "abc123xyz456";
+// let result = ""
+
+// for (let i = 0; i < str.length; i++) {
+//     let a = str[i];
+
+//     if (a >= "0" && a <= "9") {
+//         result+=str[i];
+//     }
+// }
+
+// console.log(result);
+
+
+// 7
+
+// let hello = "hello world dasdas dsadasd";
+// let count = 0;
+
+// for (let i = 0; i < hello.length; i++) {
+//     if (hello[i] === " ") {
+//         count++        
+//     }
+// }
+
+// console.log(count);
 
